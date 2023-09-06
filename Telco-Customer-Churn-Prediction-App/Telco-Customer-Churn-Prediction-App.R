@@ -12,7 +12,7 @@ library(shinythemes)
 ####################################
 # Create  model                    #
 ####################################
-telco_df <- read.csv("https://raw.githubusercontent.com/NewChakri/Prediction-of-Telco-Customer-Churn-Using-R/main/Data/Telco_Customer_Churn.csv")
+telco_df <- read.csv("https://raw.githubusercontent.com/NewChakri/Telco-Customer-Churn-Prediction/main/Data/Telco_Customer_Churn.csv")
 
 telco_df <- as.data.frame(unclass(telco_df),stringsAsFactors=TRUE)
 telco_df$SeniorCitizen = as.factor(telco_df$SeniorCitizen)
