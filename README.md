@@ -3,6 +3,7 @@ In this project, we'll developed web application predictive models to prediction
 by using using detailed account information of those customers.
 
 Web App : https://newchakri.shinyapps.io/Customer-Churn-Prediction/ 
+
 ![image](https://cdn.pic.in.th/file/picinth/Customer-Churn-Prediction_App.jpeg)
 
 - SeniorCitizen : Whether the customer is a senior citizen or not (1, 0)
