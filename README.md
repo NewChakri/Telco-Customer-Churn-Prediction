@@ -1,7 +1,9 @@
 # Prediction of Telco Customer Churn
-The project Prediction of Telco Customer Churn focuses on developing a web application with predictive models to estimate the probability of customer churn using detailed account information.
 
-Web App : https://newchakri.shinyapps.io/Customer-Churn-Prediction/ 
+The Prediction of Telco Customer Churn project focuses on developing a web application using R Studio and deploying it with R Shiny. It's dedicated to predicting customer churn probability based on detailed account data using classification machine learning algorithms and statistical analysis.
+
+Web App : https://newchakri.shinyapps.io/Customer-Churn-Prediction 
+
 ![image](https://github.com/NewChakri/Telco-Customer-Churn-Prediction/assets/99199609/c146e4d9-799f-4b31-93fa-eff51c56ef25)
 
 
