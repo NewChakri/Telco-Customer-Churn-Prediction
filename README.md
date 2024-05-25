@@ -3,8 +3,8 @@ In this project, we'll developed web application predictive models to prediction
 by using using detailed account information of those customers.
 
 Web App : https://newchakri.shinyapps.io/Customer-Churn-Prediction/ 
+![image](https://github.com/NewChakri/Telco-Customer-Churn-Prediction/assets/99199609/c146e4d9-799f-4b31-93fa-eff51c56ef25)
 
-![image](https://img.sgp1.vultrobjects.com/CustomerChurnPrediction.jpeg)
 
 - SeniorCitizen : Whether the customer is a senior citizen or not (1, 0)
 - Partner : Whether the customer has a partner or not (Yes, No)
